@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a SaaS Product**
 
-- 👨‍💻 All of my projects are available at [eeren.de](eeren.de)
+- 👨‍💻 All of my projects are available at [eeren.de](https://eeren.de)
 
-- 📫 How to reach me **eren@swiftab.com**
+- 📫 How to reach me **contact@eeren.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
